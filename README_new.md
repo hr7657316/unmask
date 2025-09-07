@@ -1,11 +1,12 @@
-
+<div align="center">
+  <img src="frontend/public/le-commit-unmask.svg" alt="Le Commit" width="400" />
+</div>
 
 # Unmask - AI-Powered Hiring Verification Platform
 
 **Trust your hiring process again.**
 
 Unmask is an intelligent hiring verification platform that helps you verify candidate authenticity through comprehensive analysis of CVs, LinkedIn profiles, GitHub accounts, and automated reference calls. Built for **mosAIc: AI in action with The Product Folks 2025** • Vultr Track.
-
 
 ---
 
@@ -115,7 +116,6 @@ Unmask is an intelligent hiring verification platform that helps you verify cand
    ASHBY_API_KEY=your_ashby_api_key
    ```
 
-
 4. **Start local supabase**
    ```bash
    supabase start
@@ -131,7 +131,6 @@ Unmask is an intelligent hiring verification platform that helps you verify cand
    ```
    http://localhost:3000
    ```
-
 
 ---
 
